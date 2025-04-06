@@ -1,9 +1,22 @@
-# 🚀 GitHub Label Sync Tool
+<h1 align="center">🚀 GitHub Label Sync Tool</h1>
+<p align="center"><i>Sync Smarter. Label Better.</i></p>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/KarthikUdyawar/GitHub-Label-Sync-Tool?style=social)
-![License](https://img.shields.io/github/license/KarthikUdyawar/GitHub-Label-Sync-Tool)
-![ShellCheck](https://img.shields.io/badge/shellcheck-passing-brightgreen?logo=gnu-bash&logoColor=white)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+<p align="center">
+  <a href="https://github.com/KarthikUdyawar/GitHub-Label-Sync-Tool/stargazers">
+    <img src="https://img.shields.io/github/stars/KarthikUdyawar/GitHub-Label-Sync-Tool?style=social" alt="GitHub stars"/>
+  </a>
+  <a href="https://github.com/KarthikUdyawar/GitHub-Label-Sync-Tool/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/KarthikUdyawar/GitHub-Label-Sync-Tool" alt="License"/>
+  </a>
+  <img src="https://img.shields.io/badge/shellcheck-passing-brightgreen?logo=gnu-bash&logoColor=white" alt="ShellCheck"/>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome"/>
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" alt="GitHub Label Sync Tool Logo" width="200"/>
+</p>
+
+---
 
 A shell script to **sync GitHub issue labels** from a CSV file to a repository using the GitHub API.  
 Easily validate, create, update, and optionally delete labels to keep your GitHub repositories clean and consistent.
@@ -12,19 +25,18 @@ Easily validate, create, update, and optionally delete labels to keep your GitHu
 
 ## 📜 Table of Contents
 
-- [🚀 GitHub Label Sync Tool](#-github-label-sync-tool)
-  - [📜 Table of Contents](#-table-of-contents)
-  - [🛠 Features](#-features)
-  - [📦 Installation](#-installation)
-  - [🚀 Usage](#-usage)
-    - [Flags](#flags)
-  - [🧪 CSV Format](#-csv-format)
-    - [Constraints](#constraints)
-  - [🔐 Authentication](#-authentication)
-  - [📈 Output Summary](#-output-summary)
-  - [🧑‍💻 Contributing](#-contributing)
-    - [🧪 Before submitting a PR](#-before-submitting-a-pr)
-  - [📄 License](#-license)
+- [📜 Table of Contents](#-table-of-contents)
+- [🛠 Features](#-features)
+- [📦 Installation](#-installation)
+- [🚀 Usage](#-usage)
+  - [Flags](#flags)
+- [🧪 CSV Format](#-csv-format)
+  - [Constraints](#constraints)
+- [🔐 Authentication](#-authentication)
+- [📈 Output Summary](#-output-summary)
+- [🧑‍💻 Contributing](#-contributing)
+  - [🧪 Before submitting a PR](#-before-submitting-a-pr)
+- [📄 License](#-license)
 
 ---
 
