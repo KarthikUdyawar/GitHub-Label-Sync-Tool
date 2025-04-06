@@ -1,0 +1,31 @@
+name,color,description
+Dependencies,326B9B,Identifies and tracks issues related to the external components necessary for the repo.
+Duplicate,F2F2F2,Identifies and tracks duplicate issues to maintain an organized and efficient workflow in the repo.
+Effort: 1,64AA48,Indicates that a minimal amount of time or effort is required to resolve the issue.
+Effort: 2,A3AA31,Indicates that a small amount of time or effort is required to resolve the issue.
+Effort: 3,EDAE30,Indicates that a moderate amount of time or effort is required to resolve the issue.
+Effort: 5,F28714,Indicates that a substantial amount of time or effort is required to resolve the issue.
+Effort: 8,F24A10,Indicates that a significant amount of time or effort is required to resolve the issue.
+Effort: 13,F20C0C,Indicates that an extremely large amount of time or effort is required to resolve the issue.
+Good-first-issue,23C3A1,Identifies issues that are suitable for new contributors.
+Need-help,EFBE33,Identifies issues that require additional assistance or collaboration from the community to resolve.
+Need-review,61B95C,Indicates that an issue require a review of the proposed sol. before it can be merged or resolved.
+Priority: Critical,F10000,Indicates that an issue is of the highest importance and requires immediate attention.
+Priority: High,F25F00,Indicates that an issue is of significant importance and requires prompt attention.
+Priority: Medium,F2F200,Indicates that an issue is of moderate importance and should be addressed on time.
+Priority: Low,00BE00,Indicates that an issue is of low importance and can be addressed at a lower priority.
+State: Approved,299247,Indicates that an issue has been reviewed and approved for implementation.
+State: Blocked,D6372B,Indicates that an issue is currently blocked and unable to move forward until a condition is met.
+State: Inactive,000000,Indicates that an issue is currently inactive and is not being worked on.
+State: In-progress,0072BC,Indicates that work on the issue is currently being done.
+State: Pending,EFB71D,Indicates that an issue is waiting and is pending further action or information.
+Type: Bug,F22424,Indicates that an issue is a bug or defect that needs to be fixed.
+Type: Discussion,8C04E5,Indicates that an issue is a discussion or debate topic that needs to be addressed.
+Type: Documentation,0074D7,Indicates that an issue is related to doc and requires updates or improvements.
+Type: Enhancement,2FF0EC,Indicates that an issue is a request for an improvement or enhancement to an existing feature.
+Type: Feature,43F005,Indicates that an issue is a request for a new feature or functionality.
+Type: Refactor,FF33E9,Indicates issues related to refactoring code for better structure without changing functionality.
+Type: Fix,21C45A,Indicates that an issue is a solution or patch for a bug or defect.
+Type: Release,90E34D,Indicates that an issue is related to a release or deployment of code.
+Type: Security,F07A03,Indicates that an issue is related to security and requires attention and mitigation.
+Type: Testing,D302CA,Indicates that an issue is related to testing and quality assurance.
